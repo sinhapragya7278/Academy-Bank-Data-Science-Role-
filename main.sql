@@ -1,5 +1,4 @@
-# Creating a customer churn model for a client, specially for understanding and predicting customer behavior. Here's a step-by-step guide to help you get started:
-# data cleaning
+#data cleaning
 select * from DATABASE."table_name"
 select * from Database."table_name"
 limit 10
